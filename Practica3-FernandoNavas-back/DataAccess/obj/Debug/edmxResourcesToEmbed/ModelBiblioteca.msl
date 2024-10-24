@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BibliotecaModelStoreContainer" CdmEntityContainer="BibliotecaEntities">
+    <EntitySetMapping Name="autor">
+      <EntityTypeMapping TypeName="BibliotecaModel.autor">
+        <MappingFragment StoreEntitySet="autor">
+          <ScalarProperty Name="idAutor" ColumnName="idAutor" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="sexo" ColumnName="sexo" />
+          <ScalarProperty Name="idPais" ColumnName="idPais" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="autorLibro">
+      <EntityTypeMapping TypeName="BibliotecaModel.autorLibro">
+        <MappingFragment StoreEntitySet="autorLibro">
+          <ScalarProperty Name="idLibro" ColumnName="idLibro" />
+          <ScalarProperty Name="idAutor" ColumnName="idAutor" />
+          <ScalarProperty Name="FechaPublicacion" ColumnName="FechaPublicacion" />
+          <ScalarProperty Name="idEditorial" ColumnName="idEditorial" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="editorial">
+      <EntityTypeMapping TypeName="BibliotecaModel.editorial">
+        <MappingFragment StoreEntitySet="editorial">
+          <ScalarProperty Name="idEditorial" ColumnName="idEditorial" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="idPais" ColumnName="idPais" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="libro">
+      <EntityTypeMapping TypeName="BibliotecaModel.libro">
+        <MappingFragment StoreEntitySet="libro">
+          <ScalarProperty Name="idLibro" ColumnName="idLibro" />
+          <ScalarProperty Name="titulo" ColumnName="titulo" />
+          <ScalarProperty Name="anio" ColumnName="anio" />
+          <ScalarProperty Name="idEditorial" ColumnName="idEditorial" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pais">
+      <EntityTypeMapping TypeName="BibliotecaModel.Pais">
+        <MappingFragment StoreEntitySet="Pais">
+          <ScalarProperty Name="idPais" ColumnName="idPais" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

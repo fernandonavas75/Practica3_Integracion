@@ -1,14 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\",
+  "WorkspaceRootPath": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|c:\\users\\servicio\\source\\repos\\practica3-fernandonavas-back\\dataaccess\\modelbiblioteca.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\idatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\idatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\dataaccess\\modelbiblioteca.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\modelbiblioteca.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|c:\\users\\servicio\\source\\repos\\practica3-fernandonavas-back\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,10 +26,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\IDatos.cs",
+              "RelativeDocumentMoniker": "Data\\IDatos.cs",
+              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\IDatos.cs",
+              "RelativeToolTip": "Data\\IDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:55:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ModelBiblioteca.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx",
+              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx",
               "RelativeDocumentMoniker": "DataAccess\\ModelBiblioteca.edmx",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx [Diagram1]",
               "RelativeToolTip": "DataAccess\\ModelBiblioteca.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-10-24T03:32:48.37Z",
@@ -34,16 +50,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
               "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\..\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:48:42.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:48:42.974Z"
             }
           ]
         }

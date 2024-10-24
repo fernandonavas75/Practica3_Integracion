@@ -17,7 +17,7 @@ namespace DataAccess
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public autor()
         {
-            this.autorLibro = new HashSet<autorLibro>();
+            this.autorLibro = new List<autorLibro>();
         }
     
         public int idAutor { get; set; }
@@ -27,6 +27,6 @@ namespace DataAccess
     
         public virtual Pais Pais { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<autorLibro> autorLibro { get; set; }
+        public virtual List<autorLibro> autorLibro { get; set; }
     }
 }

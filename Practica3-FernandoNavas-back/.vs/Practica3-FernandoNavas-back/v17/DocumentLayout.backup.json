@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|c:\\users\\servicio\\source\\repos\\practica3-fernandonavas-back\\dataaccess\\modelbiblioteca.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\modelbiblioteca.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|c:\\users\\servicio\\source\\repos\\practica3-fernandonavas-back\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ModelBiblioteca.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx",
+              "RelativeDocumentMoniker": "DataAccess\\ModelBiblioteca.edmx",
+              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx [Diagram1]",
+              "RelativeToolTip": "DataAccess\\ModelBiblioteca.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-24T03:32:48.37Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "DataAccess\\Class1.cs",

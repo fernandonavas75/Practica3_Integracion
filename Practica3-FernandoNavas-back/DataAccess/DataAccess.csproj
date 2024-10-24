@@ -56,7 +56,6 @@
     <Compile Include="autorLibro.cs">
       <DependentUpon>ModelBiblioteca.tt</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
     <Compile Include="editorial.cs">
       <DependentUpon>ModelBiblioteca.tt</DependentUpon>
     </Compile>

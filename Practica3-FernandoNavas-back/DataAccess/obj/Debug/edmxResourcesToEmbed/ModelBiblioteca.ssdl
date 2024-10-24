@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BibliotecaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="autor">
+    <Key>
+      <PropertyRef Name="idAutor" />
+    </Key>
+    <Property Name="idAutor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="sexo" Type="varchar" MaxLength="2" Nullable="false" />
+    <Property Name="idPais" Type="int" />
+  </EntityType>
+  <EntityType Name="autorLibro">
+    <Key>
+      <PropertyRef Name="idLibro" />
+      <PropertyRef Name="idAutor" />
+    </Key>
+    <Property Name="idLibro" Type="int" Nullable="false" />
+    <Property Name="idAutor" Type="int" Nullable="false" />
+    <Property Name="FechaPublicacion" Type="date" Nullable="false" />
+    <Property Name="idEditorial" Type="int" />
+  </EntityType>
+  <EntityType Name="editorial">
+    <Key>
+      <PropertyRef Name="idEditorial" />
+    </Key>
+    <Property Name="idEditorial" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="idPais" Type="int" />
+  </EntityType>
+  <EntityType Name="libro">
+    <Key>
+      <PropertyRef Name="idLibro" />
+    </Key>
+    <Property Name="idLibro" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="titulo" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="anio" Type="varchar" MaxLength="4" Nullable="false" />
+    <Property Name="idEditorial" Type="int" />
+  </EntityType>
+  <EntityType Name="Pais">
+    <Key>
+      <PropertyRef Name="idPais" />
+    </Key>
+    <Property Name="idPais" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="codigo" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__autor__idPais__5165187F">
+    <End Role="Pais" Type="Self.Pais" Multiplicity="0..1" />
+    <End Role="autor" Type="Self.autor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pais">
+        <PropertyRef Name="idPais" />
+      </Principal>
+      <Dependent Role="autor">
+        <PropertyRef Name="idPais" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__autorLibr__idAut__5812160E">
+    <End Role="autor" Type="Self.autor" Multiplicity="1" />
+    <End Role="autorLibro" Type="Self.autorLibro" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="autor">
+        <PropertyRef Name="idAutor" />
+      </Principal>
+      <Dependent Role="autorLibro">
+        <PropertyRef Name="idAutor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__autorLibr__idEdi__59063A47">
+    <End Role="editorial" Type="Self.editorial" Multiplicity="0..1" />
+    <End Role="autorLibro" Type="Self.autorLibro" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="editorial">
+        <PropertyRef Name="idEditorial" />
+      </Principal>
+      <Dependent Role="autorLibro">
+        <PropertyRef Name="idEditorial" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__autorLibr__idLib__571DF1D5">
+    <End Role="libro" Type="Self.libro" Multiplicity="1" />
+    <End Role="autorLibro" Type="Self.autorLibro" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="libro">
+        <PropertyRef Name="idLibro" />
+      </Principal>
+      <Dependent Role="autorLibro">
+        <PropertyRef Name="idLibro" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__editorial__idPai__4E88ABD4">
+    <End Role="Pais" Type="Self.Pais" Multiplicity="0..1" />
+    <End Role="editorial" Type="Self.editorial" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pais">
+        <PropertyRef Name="idPais" />
+      </Principal>
+      <Dependent Role="editorial">
+        <PropertyRef Name="idPais" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__libro__idEditori__5441852A">
+    <End Role="editorial" Type="Self.editorial" Multiplicity="0..1" />
+    <End Role="libro" Type="Self.libro" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="editorial">
+        <PropertyRef Name="idEditorial" />
+      </Principal>
+      <Dependent Role="libro">
+        <PropertyRef Name="idEditorial" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BibliotecaModelStoreContainer">
+    <EntitySet Name="autor" EntityType="Self.autor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="autorLibro" EntityType="Self.autorLibro" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="editorial" EntityType="Self.editorial" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="libro" EntityType="Self.libro" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pais" EntityType="Self.Pais" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__autor__idPais__5165187F" Association="Self.FK__autor__idPais__5165187F">
+      <End Role="Pais" EntitySet="Pais" />
+      <End Role="autor" EntitySet="autor" />
+    </AssociationSet>
+    <AssociationSet Name="FK__autorLibr__idAut__5812160E" Association="Self.FK__autorLibr__idAut__5812160E">
+      <End Role="autor" EntitySet="autor" />
+      <End Role="autorLibro" EntitySet="autorLibro" />
+    </AssociationSet>
+    <AssociationSet Name="FK__autorLibr__idEdi__59063A47" Association="Self.FK__autorLibr__idEdi__59063A47">
+      <End Role="editorial" EntitySet="editorial" />
+      <End Role="autorLibro" EntitySet="autorLibro" />
+    </AssociationSet>
+    <AssociationSet Name="FK__autorLibr__idLib__571DF1D5" Association="Self.FK__autorLibr__idLib__571DF1D5">
+      <End Role="libro" EntitySet="libro" />
+      <End Role="autorLibro" EntitySet="autorLibro" />
+    </AssociationSet>
+    <AssociationSet Name="FK__editorial__idPai__4E88ABD4" Association="Self.FK__editorial__idPai__4E88ABD4">
+      <End Role="Pais" EntitySet="Pais" />
+      <End Role="editorial" EntitySet="editorial" />
+    </AssociationSet>
+    <AssociationSet Name="FK__libro__idEditori__5441852A" Association="Self.FK__libro__idEditori__5441852A">
+      <End Role="editorial" EntitySet="editorial" />
+      <End Role="libro" EntitySet="libro" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
