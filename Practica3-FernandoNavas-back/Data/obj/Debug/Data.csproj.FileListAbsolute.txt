@@ -1,0 +1,15 @@
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\Data.dll.config
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\Data.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\Data.pdb
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\DataAccess.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\EntityFramework.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\DataAccess.pdb
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\DataAccess.dll.config
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\EntityFramework.xml
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\obj\Debug\Data.csproj.Up2Date
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\obj\Debug\Data.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Data\obj\Debug\Data.pdb
