@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\logicanegocio\\paislogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\paislogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\logicanegocio\\autorlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\logicanegocio\\autorlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\autorlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\autor_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\logicanegocio\\paislogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\paislogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\data\\autor_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\autor_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,37 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\Program.cs*",
-              "RelativeToolTip": "Test\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAArwB4AAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T00:59:06.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AutorLogica.cs",
               "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\LogicaNegocio\\AutorLogica.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\AutorLogica.cs",
               "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\LogicaNegocio\\AutorLogica.cs",
               "RelativeToolTip": "LogicaNegocio\\AutorLogica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T00:39:13.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PaisLogica.cs",
               "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\LogicaNegocio\\PaisLogica.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\PaisLogica.cs",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "LogicaNegocio\\PaisLogica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T00:23:22.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T00:23:22.452Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Data\\Autor_Datos.cs",
               "ViewState": "AgIAACgAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T00:11:45.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T00:11:45.066Z"
             }
           ]
         }

@@ -10,13 +10,14 @@ namespace LogicaNegocio
 {
     internal class AutorLogica
     {
-        public List<autor> Listado()
+        public List<autor> ListaAutorXPais()
         {
-            List<autor> a = new List<autor>();
-            Autor_Datos autor_datos = new Autor_Datos();
-            // List<Pais_Datos> lista = new List<Pais_Datos>();
-            return a = autor_datos.Listado();
+            List<autor> autores = new List<autor>();
+            Autor_Datos a_datos = new Autor_Datos();
+            autores=a_datos.Listado();
+            return autores.Where(a=>a.idPais==1).ToList();
         } 
+        /*
         public void insertar(Pais p)
         {
             // Todo el codigo que mi logica de ndegocio requiera
@@ -30,5 +31,6 @@ namespace LogicaNegocio
                 Console.WriteLine("error");
             }
         }
+        */
     }
 }
