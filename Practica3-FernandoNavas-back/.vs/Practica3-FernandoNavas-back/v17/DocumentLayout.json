@@ -3,51 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\idatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\idatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\pais_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\pais_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FA5D98AD-C3BB-4405-A6E6-6D0F7343A4F1}|Test\\Test.csproj|solutionrelative:test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\logicanegocio\\paislogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\paislogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\dataaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\libro_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\libro_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\editorial_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\editorial_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\autorlibro_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\autorlibro_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\logicanegocio\\autorlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F184D-FC8C-4296-9E21-2EB0FA748C7C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\autorlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|c:\\users\\servicio\\source\\repos\\practica3_integracion\\practica3-fernandonavas-back\\data\\autor_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5316B2D3-552D-48D8-8E4B-1223E67CC657}|Data\\Data.csproj|solutionrelative:data\\autor_datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\dataaccess\\modelbiblioteca.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{912F5478-8D79-4136-A0A6-63CC3D4B3F1D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\modelbiblioteca.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,155 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\IDatos.cs",
-              "RelativeDocumentMoniker": "Data\\IDatos.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\IDatos.cs",
-              "RelativeToolTip": "Data\\IDatos.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T03:55:30.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.Config",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\DataAccess\\App.Config",
-              "RelativeDocumentMoniker": "DataAccess\\App.Config",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\DataAccess\\App.Config",
-              "RelativeToolTip": "DataAccess\\App.Config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-25T01:06:37.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\App.config",
-              "RelativeDocumentMoniker": "Test\\App.config",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\App.config",
-              "RelativeToolTip": "Test\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-25T01:06:24.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\App.config",
-              "RelativeDocumentMoniker": "Data\\App.config",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\App.config",
-              "RelativeToolTip": "Data\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-25T01:06:06.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\Program.cs",
-              "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Test\\Program.cs*",
+              "RelativeToolTip": "Test\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T00:59:06.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "libro_datos.cs",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\libro_datos.cs",
-              "RelativeDocumentMoniker": "Data\\libro_datos.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\libro_datos.cs",
-              "RelativeToolTip": "Data\\libro_datos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AutorLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\LogicaNegocio\\AutorLogica.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\AutorLogica.cs",
+              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\LogicaNegocio\\AutorLogica.cs",
+              "RelativeToolTip": "LogicaNegocio\\AutorLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:43:35.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "editorial_Datos.cs",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\editorial_Datos.cs",
-              "RelativeDocumentMoniker": "Data\\editorial_Datos.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\editorial_Datos.cs",
-              "RelativeToolTip": "Data\\editorial_Datos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:42:36.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AutorLibro_Datos.cs",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\AutorLibro_Datos.cs",
-              "RelativeDocumentMoniker": "Data\\AutorLibro_Datos.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\AutorLibro_Datos.cs",
-              "RelativeToolTip": "Data\\AutorLibro_Datos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:41:34.393Z",
+              "WhenOpened": "2024-10-26T00:39:13.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pais_Datos.cs",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\Pais_Datos.cs",
-              "RelativeDocumentMoniker": "Data\\Pais_Datos.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\Pais_Datos.cs",
-              "RelativeToolTip": "Data\\Pais_Datos.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCUAAAAxAAAAAAAAAA==",
+              "Title": "PaisLogica.cs",
+              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\LogicaNegocio\\PaisLogica.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\PaisLogica.cs",
+              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\LogicaNegocio\\PaisLogica.cs",
+              "RelativeToolTip": "LogicaNegocio\\PaisLogica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:35:52.341Z",
+              "WhenOpened": "2024-10-26T00:23:22.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Autor_Datos.cs",
               "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\Autor_Datos.cs",
               "RelativeDocumentMoniker": "Data\\Autor_Datos.cs",
               "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\Data\\Autor_Datos.cs",
               "RelativeToolTip": "Data\\Autor_Datos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T00:40:09.041Z",
+              "WhenOpened": "2024-10-26T00:11:45.066Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ModelBiblioteca.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx",
-              "RelativeDocumentMoniker": "DataAccess\\ModelBiblioteca.edmx",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3_Integracion\\Practica3-FernandoNavas-back\\DataAccess\\ModelBiblioteca.edmx [Diagram1]",
-              "RelativeToolTip": "DataAccess\\ModelBiblioteca.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-10-24T03:32:48.37Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\..\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\Servicio\\source\\repos\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "..\\..\\Practica3-FernandoNavas-back\\DataAccess\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:48:42.974Z"
             }
           ]
         }

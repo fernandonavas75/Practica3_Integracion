@@ -64,6 +64,10 @@
       <Project>{5316b2d3-552d-48d8-8e4b-1223e67cc657}</Project>
       <Name>Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\LogicaNegocio\LogicaNegocio.csproj">
+      <Project>{047f184d-fc8c-4296-9e21-2eb0fa748c7c}</Project>
+      <Name>LogicaNegocio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

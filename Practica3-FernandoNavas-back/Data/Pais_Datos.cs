@@ -24,7 +24,7 @@ namespace Data
                 contextoBd.SaveChanges();
                 return true;
             }else return false;
-            throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
 
         public Pais Buscar(int id)
@@ -36,7 +36,13 @@ namespace Data
         public bool Delete(Pais item)
         {
             // por codificar hablar con luchito//
-            throw new NotImplementedException();
+            Pais _pais = Buscar(item.idPais);
+            if (_pais != null) { 
+                contextoBd.Pais.Remove(item);
+                contextoBd.SaveChanges();
+                return true;
+            }else { return false; }
+            // throw new NotImplementedException();
         }
 
         public bool Insertar(Pais item)
@@ -50,7 +56,7 @@ namespace Data
             }
             catch (Exception ex) { 
                 return false;
-                throw new NotImplementedException();
+               //  throw new NotImplementedException();
             }
             
         }
@@ -58,7 +64,7 @@ namespace Data
         public List<Pais> Listado()
         {
             return contextoBd.Pais.ToList(); 
-            throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
     }
 }

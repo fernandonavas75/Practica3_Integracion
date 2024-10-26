@@ -16,3 +16,5 @@ C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-bac
 C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Test\obj\Debug\Test.csproj.Up2Date
 C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Test\obj\Debug\Test.exe
 C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Test\obj\Debug\Test.pdb
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Test\bin\Debug\LogicaNegocio.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\Test\bin\Debug\LogicaNegocio.pdb

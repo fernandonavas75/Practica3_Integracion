@@ -1,0 +1,17 @@
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\Data.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\DataAccess.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\DataAccess.pdb
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\DataAccess.dll.config
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\Data.pdb
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\Data.dll.config
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\obj\Debug\LogicaNe.53575492.Up2Date
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Servicio\source\repos\Practica3_Integracion\Practica3-FernandoNavas-back\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
